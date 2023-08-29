@@ -1,0 +1,36 @@
+Step 1
+create repo github
+
+
+step 2
+git init
+
+
+git status
+
+git add -A
+
+
+
+git config --global user.name "your name"
+git config -- global user.email "your email"
+
+
+git commit -m "your commit message"
+
+git remote add origin url
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
